@@ -7,7 +7,7 @@ This repository contains my solutions to LeetCode problems.
 - Filenames follow: `<problem-number>-<problem-name>.<language>`
 
 ## Progress
-- Easy: 2
+- Easy: 3
 - Medium: 0
 - Hard: 0
 
